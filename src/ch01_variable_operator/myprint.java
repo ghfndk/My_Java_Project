@@ -16,7 +16,7 @@ public class myprint {
         System.out.print("대한 민국");
         System.out.print(" 화이팅");
         System.out.println();
-        System.out.println("\"예체능\" 프로그램 메인 MC \'강호동\'");
+        System.out.println("\"예체능\" 프로그램 메인 MC '강호동'");
 
         System.out.println();
         System.out.println("이름 \t국어\t영어\t수학");
